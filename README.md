@@ -1,8 +1,8 @@
-# MediSuite – AI-Powered Hospital and Insurance Claim Management System
+# InsuraMedix – AI-Powered Hospital and Insurance Claim Management System
 
 ## Overview
 
-MediSuite is an AI-assisted hospital and insurance claim management system designed to simplify and streamline the medical insurance claim process.
+InsuraMedix is an AI-assisted hospital and insurance claim management system designed to simplify and streamline the medical insurance claim process.
 
 The system aims to reduce manual paperwork, improve document processing, assist with medical information extraction, and make claim tracking more efficient. It brings different stages of the claim lifecycle together, from document submission and validation to claim review and settlement.
 
@@ -51,7 +51,7 @@ Provides a structured way to monitor claim progress and status.
 ## Project Structure
 
 ```text
-MediSuite-AI-Claim-Management/
+InsuraMedix-AI-Claim-Management/
 │
 ├── Agent.py
 ├── app.py
@@ -82,8 +82,8 @@ MediSuite-AI-Claim-Management/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Bhumi-Chahal/MediSuite-AI-Claim-Management.git
-cd MediSuite-AI-Claim-Management
+git clone https://github.com/Bhumi-Chahal/InsuraMedix-AI-Claim-Management.git
+cd InsuraMedix-AI-Claim-Management
 ```
 
 ### 2. Create a Virtual Environment
