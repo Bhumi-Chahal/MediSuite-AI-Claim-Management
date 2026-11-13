@@ -60,8 +60,8 @@ MediSuite-AI-Claim-Management/
 ├── .gitignore
 ├── LICENSE
 └── README.md
-```
-## Installation and Setup
+
+**##Installation and Setup**
 
 ### Prerequisites
 
