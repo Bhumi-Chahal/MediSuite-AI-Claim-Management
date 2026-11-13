@@ -69,9 +69,12 @@ InsuraMedix-AI-Claim-Management/
 ├── .gitignore
 ├── LICENSE
 └── README.md
+<<<<<<< HEAD
 ```
 
 ## Installation and Setup
+
+
 
 ### Prerequisites
 
