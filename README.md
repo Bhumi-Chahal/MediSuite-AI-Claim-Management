@@ -69,12 +69,10 @@ InsuraMedix-AI-Claim-Management/
 ├── .gitignore
 ├── LICENSE
 └── README.md
-<<<<<<< HEAD
+
 ```
 
 ## Installation and Setup
-
-
 
 ### Prerequisites
 
@@ -130,6 +128,7 @@ Check the project configuration for the exact execution command.
 
 ## Development and Contributions
 
+
 InsuraMedix is maintained as an academic software project. Development activities, improvements, testing, and documentation are managed through GitHub.
 
 The repository uses an existing open-source codebase as its starting point. Original source-code attribution and applicable licence terms are retained. Further development and project-specific modifications are tracked through Git commits.
@@ -138,6 +137,5 @@ The repository uses an existing open-source codebase as its starting point. Orig
 
 InsuraMedix is an academic software project. AI-generated information is intended to assist with claim processing and must be verified by authorized personnel. The system is not intended to replace professional medical judgment or independent insurance claim decisions.
 
-## License
 
-This repository retains the applicable MIT License and original copyright notices. Refer to the `LICENSE` file for details.
+
