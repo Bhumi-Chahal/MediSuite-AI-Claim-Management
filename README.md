@@ -2,7 +2,7 @@
 
 ## Overview
 
-InsuraMedix is an AI-assisted hospital and insurance claim management system designed to simplify and streamline the medical insurance claim process.
+InsuraMedix is an AI-assisted hospital and medical insurance claim management system designed to simplify and streamline the medical insurance claim process.
 
 The system aims to reduce manual paperwork, improve document processing, assist with medical information extraction, and make claim tracking more efficient. It brings different stages of the claim lifecycle together, from document submission and validation to claim review and settlement.
 
@@ -69,6 +69,7 @@ InsuraMedix-AI-Claim-Management/
 ├── .gitignore
 ├── LICENSE
 └── README.md
+
 ```
 
 ## Installation and Setup
@@ -127,14 +128,14 @@ Check the project configuration for the exact execution command.
 
 ## Development and Contributions
 
-MediSuite is maintained as an academic software project. Development activities, improvements, testing, and documentation are managed through GitHub.
 
-The repository uses an existing open-source MediSuite codebase as its starting point. Original source-code attribution and applicable licence terms are retained. Further development and project-specific modifications are tracked through Git commits.
+InsuraMedix is maintained as an academic software project. Development activities, improvements, testing, and documentation are managed through GitHub.
+
+The repository uses an existing open-source codebase as its starting point. Original source-code attribution and applicable licence terms are retained. Further development and project-specific modifications are tracked through Git commits.
 
 ## Disclaimer
 
-MediSuite is an academic software project. AI-generated information is intended to assist with claim processing and must be verified by authorized personnel. The system is not intended to replace professional medical judgment or independent insurance claim decisions.
+InsuraMedix is an academic software project. AI-generated information is intended to assist with claim processing and must be verified by authorized personnel. The system is not intended to replace professional medical judgment or independent insurance claim decisions.
 
-## License
 
-This repository retains the applicable MIT License and original copyright notices. Refer to the `LICENSE` file for details.
+
